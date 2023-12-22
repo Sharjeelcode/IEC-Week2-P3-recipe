@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+:root {
+    --main-color: #d54215;
+}
+header{
+    position: sticky;
+    top: 0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    background-color: white;
+}
+
+.logo {
+    color: var(--main-color);
+    margin-left: 6vw;
+
+}
+
+nav {
+    flex-direction: row;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    margin-left: 5vw;
+}
+
+nav ul li {
+    padding: 10px;
+    list-style: none;
+    font-weight: 700;
+}
+
+.magzine {
+    margin-left: 10vw;
+    color: var(--main-color);
+}
+
+.discription {
+    width: 50vw;
+    margin-left: 20vw;
+    margin-top: 4vh;
+
+}
+
+.discription p {
+    line-height: 2;
+
+}
+
+.Ingredients h1 {
+    padding: 16px 0px;
+    font-size: 35px;
+}
+
+.Ingredients ul li {
+    padding: 10px 0px;
+    list-style-type: var(--main-color);
+}
+
+.Ingredients ol li {
+    padding: 10px 0px;
+    list-style-type: var(--main-color);
+}
+footer{
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+footer h3{
+    color: var(--main-color);
+    padding: 20px;
+    
+}
