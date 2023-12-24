@@ -13,6 +13,7 @@ header{
     top: 0;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
     background-color: white;
+    width: 100%;
 }
 
 .logo {
@@ -70,9 +71,11 @@ nav ul li {
 }
 footer{
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+     width: 100%;
 }
 footer h3{
     color: var(--main-color);
     padding: 20px;
+   
     
 }
