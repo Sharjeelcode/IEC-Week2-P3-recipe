@@ -54,6 +54,17 @@ nav ul li {
     line-height: 2;
 
 }
+.btn button{
+    padding: 10px 20px;
+    font-weight: 600;
+    font-size: 1rem;
+    outline: none;
+    border: none;
+}
+#save-btn{
+    background: #D54215;
+    color: #fff;
+}
 
 .Ingredients h1 {
     padding: 16px 0px;
