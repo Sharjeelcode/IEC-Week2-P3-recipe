@@ -36,6 +36,7 @@ nav ul li {
     padding: 10px;
     list-style: none;
     font-weight: 700;
+    font-size: 15px;
 }
 
 .magzine {
@@ -72,6 +73,7 @@ nav ul li {
 .Ingredients h1 {
     padding: 16px 0px;
     font-size: 35px;
+
 }
 
 .Ingredients ul li {
