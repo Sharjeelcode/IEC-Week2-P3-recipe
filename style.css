@@ -6,7 +6,7 @@
 }
 
 :root {
-    --main-color: #d54215;
+    --main-color: #D54215;
 }
 header{
     position: sticky;
@@ -53,6 +53,9 @@ nav ul li {
 .discription p {
     line-height: 2;
 
+}
+.btn{
+    margin: 20px 0px;
 }
 .btn button{
     padding: 10px 20px;
